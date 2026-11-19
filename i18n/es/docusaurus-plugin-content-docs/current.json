@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.manual.category.Getting started": {
+    "message": "Primeros pasos",
+    "description": "The label for category Getting started in sidebar manual"
+  },
+  "sidebar.manual.category.Firewalls": {
+    "message": "Firewalls",
+    "description": "The label for category Firewalls in sidebar manual"
+  },
+  "sidebar.manual.category.Groups": {
+    "message": "Grupos",
+    "description": "The label for category Groups in sidebar manual"
+  },
+  "sidebar.manual.category.Reports": {
+    "message": "Informes",
+    "description": "The label for category Reports in sidebar manual"
+  },
+  "sidebar.manual.category.Administration": {
+    "message": "Administración",
+    "description": "The label for category Administration in sidebar manual"
+  },
+  "sidebar.manual.category.Help": {
+    "message": "Ayuda",
+    "description": "The label for category Help in sidebar manual"
+  }
+}

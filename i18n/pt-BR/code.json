@@ -1,0 +1,77 @@
+{
+  "home.title": {
+    "message": "Documentação do Nexwall Cloud Controller"
+  },
+  "home.subtitle": {
+    "message": "Registre firewalls, abra-os remotamente, agrupe-os, atualize-os e gere relatórios, tudo pelo Nexwall Cloud Controller."
+  },
+  "home.start": {
+    "message": "Primeiros passos"
+  },
+  "home.slide.prev": {
+    "message": "Captura anterior"
+  },
+  "home.slide.next": {
+    "message": "Próxima captura"
+  },
+  "home.slide.goTo": {
+    "message": "Mostrar a captura {n}"
+  },
+  "shots.prev": {
+    "message": "Captura anterior"
+  },
+  "shots.next": {
+    "message": "Próxima captura"
+  },
+  "home.card.start.title": {
+    "message": "Primeiros passos"
+  },
+  "home.card.start.text": {
+    "message": "O que é o Cloud Controller e como a interface é organizada."
+  },
+  "home.card.firewalls.title": {
+    "message": "Firewalls"
+  },
+  "home.card.firewalls.text": {
+    "message": "Adicione um firewall, abra-o, atualize-o e use o terminal remoto."
+  },
+  "home.card.groups.title": {
+    "message": "Grupos"
+  },
+  "home.card.groups.text": {
+    "message": "Organize os firewalls em grupos e controle quem pode gerenciá-los."
+  },
+  "home.card.reports.title": {
+    "message": "Relatórios"
+  },
+  "home.card.reports.text": {
+    "message": "Relatórios executivos de um firewall ou de um grupo inteiro, salvos e prontos para baixar."
+  },
+  "home.card.admin.title": {
+    "message": "Administração"
+  },
+  "home.card.admin.text": {
+    "message": "Usuários do controlador, sua conta, senha, 2FA e chave SSH."
+  },
+  "home.card.help.title": {
+    "message": "Ajuda"
+  },
+  "home.card.help.text": {
+    "message": "Resolva os problemas mais comuns."
+  },
+  "home.slide.units": {
+    "message": "Todos os firewalls, com o status, em uma só lista"
+  },
+  "home.slide.add-firewall": {
+    "message": "Adicione um firewall com um código de adesão"
+  },
+  "home.slide.terminal": {
+    "message": "Terminal remoto sem compartilhar senhas"
+  },
+  "home.slide.groups": {
+    "message": "Grupos para organizar seus clientes"
+  },
+  "home.slide.reports": {
+    "message": "Relatórios executivos de toda a frota"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "item.label.Controller guide": {
+    "message": "Guía del controlador"
+  },
+  "item.label.Open the controller": {
+    "message": "Abrir el controlador"
+  },
+  "item.label.Firewall docs": {
+    "message": "Documentación del firewall"
+  }
+}
