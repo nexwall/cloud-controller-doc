@@ -54,10 +54,6 @@ const slides = [
     "caption": "Every firewall, with its status, in one list"
   },
   {
-    "key": "add-firewall",
-    "caption": "Add a firewall with a join code"
-  },
-  {
     "key": "terminal",
     "caption": "Remote terminal without sharing passwords"
   },
