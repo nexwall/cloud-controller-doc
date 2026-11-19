@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcloud_controller_doc=self.webpackChunkcloud_controller_doc||[]).push([["668"],{6569(e,r,c){c.r(r),c.d(r,{default:()=>n});var l=c(4848);c(6540);var o=c(4164),s=c(4308),u=c(8287),a=c(2831),d=c(837);function n(e){return(0,l.jsx)(s.e3,{className:(0,o.A)(u.G.wrapper.docsPages),children:(0,l.jsx)(d.A,{children:(0,a.v)(e.route.routes)})})}}}]);
