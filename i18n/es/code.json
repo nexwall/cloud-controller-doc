@@ -53,6 +53,12 @@
   "home.card.admin.text": {
     "message": "Usuarios del controlador, tu cuenta, contraseña, 2FA y clave SSH."
   },
+  "home.card.support.title": {
+    "message": "Soporte"
+  },
+  "home.card.support.text": {
+    "message": "Tickets y Support Packets de tus firewalls."
+  },
   "home.card.help.title": {
     "message": "Ayuda"
   },

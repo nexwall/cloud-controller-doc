@@ -23,6 +23,10 @@
     "message": "Administración",
     "description": "The label for category Administration in sidebar manual"
   },
+  "sidebar.manual.category.Support": {
+    "message": "Soporte",
+    "description": "The label for category Support in sidebar manual"
+  },
   "sidebar.manual.category.Help": {
     "message": "Ayuda",
     "description": "The label for category Help in sidebar manual"

@@ -9,6 +9,7 @@ const sidebars: SidebarsConfig = {
     category("Groups", ["groups/firewall-groups"]),
     category("Reports", ["reports/executive-reports"]),
     category("Administration", ["administration/users", "administration/account-settings"]),
+    category("Support", ["support/support-screen"]),
     category("Help", ["help/troubleshooting"])
   ]
 }
