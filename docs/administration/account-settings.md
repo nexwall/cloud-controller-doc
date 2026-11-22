@@ -1,16 +1,14 @@
 ---
-title: "Account settings"
+title: "Change password"
 sidebar_position: 2
-description: "Your password, language, 2FA and SSH key."
+description: "Change your password from the user menu."
 ---
 
-# Account settings
+# Change password
 
-Open **Account settings** from the menu to manage your own account.
+Open the **user menu** (top right) and choose **Change password**.
 
-- **Change password**: enter your current password and a new one (at least 8 characters with an uppercase letter, a lowercase letter, a number and a special character).
-- **Language**: choose the interface language (English, Portuguese or Spanish).
-- **Configure 2FA**: turn on two-factor authentication with an authenticator app. We recommend it for every administrator.
-- **SSH key**: generate an SSH key pair protected by a passphrase of at least 8 characters. The public key can be sent to your firewalls from the Firewall manager, so you can use the [remote terminal](../firewalls/ssh-terminal.md) with your own key. **Remove SSH key** also removes the public key from the connected firewalls.
+1. Click **Send code**. A 6-digit code is sent to your e-mail address.
+2. Enter the code and choose a new password (at least 8 characters with an uppercase letter, a lowercase letter, a number and a special character).
 
-<Shots items={[{"name": "account", "caption": "Account settings: password, language, 2FA and SSH key."}]} />
+The same password is used for the Partner Portal and the controller. If you forgot your password, use **Forgot password** on the sign-in page. The interface language is chosen with the language icon in the top bar.

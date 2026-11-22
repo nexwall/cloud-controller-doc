@@ -1,19 +1,18 @@
 ---
-title: "Usuários"
+title: "Acesso"
 sidebar_position: 1
-description: "Crie usuários do controlador e defina o que podem gerenciar."
+description: "Escolha quais grupos de firewalls cada usuário pode gerenciar."
 ---
 
-# Usuários
+# Acesso
 
-Os usuários desta página podem entrar no controlador. Somente administradores podem criar, alterar ou excluir usuários.
+As pessoas são criadas e gerenciadas no **Portal de Parceiros** (perfis *Controller Admin* e *Controller User*). O controlador não cria nem exclui usuários. Em **Acesso** você decide **quais firewalls cada usuário pode gerenciar**. Somente administradores veem esta tela.
 
-Para adicionar um usuário, clique em **Adicionar usuário** e preencha o nome de usuário, o nome de exibição e a senha. As senhas precisam de pelo menos 8 caracteres, com letra maiúscula, letra minúscula, número e caractere especial.
+Cada linha tem dois botões:
 
-<Shots items={[{"name": "users", "caption": "A lista de usuários do controlador com o status do 2FA."}]} />
+- **Grupos de firewalls**: escolha os grupos de firewalls que o usuário pode gerenciar. Um usuário sem grupos não vê nenhum firewall. Administradores gerenciam todos os firewalls, por isso seus grupos não são editados.
+- **Redefinir senha**: envia uma nova senha temporária para o e-mail do usuário. A senha atual deixa de funcionar. Você não pode redefinir a sua própria senha aqui: use **Alterar senha** no menu do usuário.
 
-- **Usuário administrador**: pode gerenciar todos os firewalls e todos os usuários.
-- **Grupos de firewalls**: para os demais usuários, escolha os grupos que eles podem gerenciar. Um usuário sem grupos não acessa nenhum firewall.
-- **Status do 2FA**: mostra se o usuário ativou a autenticação em dois fatores. Cada usuário a ativa nas suas próprias [Configurações da conta](account-settings.md).
+A verificação em duas etapas (MFA) é a do Portal de Parceiros: se um usuário perdeu o dispositivo, um administrador do portal usa **Reset MFA** lá.
 
-Você pode editar um usuário (deixe a senha como *Inalterada* para mantê-la) ou excluí-lo. Os clientes não precisam de usuário no controlador: eles veem os dados somente leitura no Portal de Parceiros.
+Clientes não precisam de usuário do controlador: eles veem seus dados somente leitura no Portal de Parceiros.

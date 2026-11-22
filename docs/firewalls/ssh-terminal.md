@@ -16,8 +16,8 @@ You can open a command-line terminal on any connected firewall from the controll
 
 If direct access is not possible, the dialog asks for the firewall user name and password, or for your own key passphrase (**Use the firewall password instead**).
 
-## Using your own SSH key
+## SSH key
 
-In [Account settings](../administration/account-settings.md) you can generate your own SSH key pair protected by a passphrase. Then, in the Firewall manager, use **Send SSH public key** on one or more firewalls, and **Revoke SSH public key** to remove it again.
+The controller manages the SSH key itself: a key pair is generated automatically and the public key is installed on every firewall you connect, so there is nothing to generate or send.
 
 If the browser blocks the terminal window, allow pop-ups for the controller site.

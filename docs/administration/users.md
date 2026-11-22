@@ -1,19 +1,18 @@
 ---
-title: "Users"
+title: "Access"
 sidebar_position: 1
-description: "Create controller users and decide what they can manage."
+description: "Choose which firewall groups each user can manage."
 ---
 
-# Users
+# Access
 
-The users on this page can sign in to the controller. Only administrators can create, change or delete users.
+People are created and managed in the **Partner Portal** (roles *Controller Admin* and *Controller User*). The controller does not create or delete users. **Access** is where you decide **which firewalls each user can manage**. Only administrators see this screen.
 
-To add a user click **Add user** and fill in the user name, display name and password. Passwords need at least 8 characters with an uppercase letter, a lowercase letter, a number and a special character.
+Each row has two buttons:
 
-<Shots items={[{"name": "users", "caption": "The list of controller users with their 2FA status."}]} />
+- **Firewall groups**: choose the groups of firewalls the user can manage. A user with no groups cannot see any firewall. Administrators can manage every firewall, so their groups are not edited.
+- **Reset password**: sends a new temporary password to the user's e-mail. The current password stops working. You cannot reset your own password here, use **Change password** in the user menu.
 
-- **Administrator user**: can manage every firewall and every user.
-- **Firewall groups**: for other users, choose the groups they can manage. A user with no groups cannot access any firewall.
-- **2FA status**: shows whether the user has two-factor authentication enabled. Each user enables it in their own [Account settings](account-settings.md).
+Two-step verification (MFA) is the Partner Portal's: if a user lost the device, a portal administrator uses **Reset MFA** there.
 
-You can edit a user (leave the password as *Unchanged* to keep it) or delete it. Customers do not need a controller user: they see their data read-only in the Partner Portal.
+Customers do not need a controller user: they see their data read-only in the Partner Portal.

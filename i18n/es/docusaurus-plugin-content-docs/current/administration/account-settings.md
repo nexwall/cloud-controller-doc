@@ -1,16 +1,14 @@
 ---
-title: "Ajustes de la cuenta"
+title: "Cambiar contraseña"
 sidebar_position: 2
-description: "Tu contraseña, idioma, 2FA y clave SSH."
+description: "Cambia tu contraseña desde el menú de usuario."
 ---
 
-# Ajustes de la cuenta
+# Cambiar contraseña
 
-Abre **Ajustes de la cuenta** desde el menú para gestionar tu propia cuenta.
+Abre el **menú de usuario** (arriba a la derecha) y elige **Cambiar contraseña**.
 
-- **Cambiar contraseña**: introduce la contraseña actual y una nueva (al menos 8 caracteres, con una mayúscula, una minúscula, un número y un carácter especial).
-- **Idioma**: elige el idioma de la interfaz (inglés, portugués o español).
-- **Configurar 2FA**: activa la autenticación en dos pasos con una aplicación de autenticación. La recomendamos para todos los administradores.
-- **Clave SSH**: genera un par de claves SSH protegido por una frase de contraseña de al menos 8 caracteres. La clave pública se puede enviar a tus firewalls desde el Gestor de firewalls, para usar el [terminal remoto](../firewalls/ssh-terminal.md) con tu clave. **Quitar clave SSH** también quita la clave pública de los firewalls conectados.
+1. Haz clic en **Enviar código**. Se envía un código de 6 dígitos a tu correo.
+2. Introduce el código y elige una nueva contraseña (al menos 8 caracteres con una mayúscula, una minúscula, un número y un carácter especial).
 
-<Shots items={[{"name": "account", "caption": "Ajustes de la cuenta: contraseña, idioma, 2FA y clave SSH."}]} />
+La misma contraseña sirve para el Portal de Socios y para el controlador. Si olvidaste tu contraseña, usa **Olvidé mi contraseña** en la página de inicio de sesión. El idioma de la interfaz se elige con el icono de idioma de la barra superior.

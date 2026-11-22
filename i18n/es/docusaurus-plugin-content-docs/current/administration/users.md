@@ -1,19 +1,18 @@
 ---
-title: "Usuarios"
+title: "Acceso"
 sidebar_position: 1
-description: "Crea usuarios del controlador y decide qué pueden gestionar."
+description: "Elige qué grupos de firewalls puede gestionar cada usuario."
 ---
 
-# Usuarios
+# Acceso
 
-Los usuarios de esta página pueden iniciar sesión en el controlador. Solo los administradores pueden crear, cambiar o eliminar usuarios.
+Las personas se crean y gestionan en el **Portal de Socios** (roles *Controller Admin* y *Controller User*). El controlador no crea ni elimina usuarios. En **Acceso** decides **qué firewalls puede gestionar cada usuario**. Solo los administradores ven esta pantalla.
 
-Para añadir un usuario haz clic en **Añadir usuario** y rellena el nombre de usuario, el nombre para mostrar y la contraseña. Las contraseñas necesitan al menos 8 caracteres, con una mayúscula, una minúscula, un número y un carácter especial.
+Cada fila tiene dos botones:
 
-<Shots items={[{"name": "users", "caption": "La lista de usuarios del controlador con el estado del 2FA."}]} />
+- **Grupos de firewalls**: elige los grupos de firewalls que el usuario puede gestionar. Un usuario sin grupos no ve ningún firewall. Los administradores gestionan todos los firewalls, por eso sus grupos no se editan.
+- **Restablecer contraseña**: envía una nueva contraseña temporal al correo del usuario. La contraseña actual deja de funcionar. No puedes restablecer tu propia contraseña aquí: usa **Cambiar contraseña** en el menú de usuario.
 
-- **Usuario administrador**: puede gestionar todos los firewalls y todos los usuarios.
-- **Grupos de firewalls**: para los demás usuarios, elige los grupos que pueden gestionar. Un usuario sin grupos no accede a ningún firewall.
-- **Estado del 2FA**: muestra si el usuario tiene activada la autenticación en dos pasos. Cada usuario la activa en sus propios [Ajustes de la cuenta](account-settings.md).
+La verificación en dos pasos (MFA) es la del Portal de Socios: si un usuario perdió el dispositivo, un administrador del portal usa **Reset MFA** allí.
 
-Puedes editar un usuario (deja la contraseña como *Sin cambios* para conservarla) o eliminarlo. Los clientes no necesitan un usuario del controlador: ven sus datos en modo de solo lectura en el Portal de Socios.
+Los clientes no necesitan un usuario del controlador: ven sus datos en modo lectura en el Portal de Socios.

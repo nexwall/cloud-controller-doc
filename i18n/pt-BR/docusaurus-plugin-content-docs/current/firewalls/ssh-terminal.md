@@ -16,8 +16,8 @@ Você pode abrir um terminal de linha de comando em qualquer firewall conectado 
 
 Se o acesso direto não for possível, a janela pede o usuário e a senha do firewall, ou a frase secreta da sua própria chave (**Usar a senha do firewall**).
 
-## Usar a sua própria chave SSH
+## Chave SSH
 
-Em [Configurações da conta](../administration/account-settings.md) você pode gerar o seu par de chaves SSH protegido por uma frase secreta. Depois, no Gerenciador de firewalls, use **Enviar chave pública SSH** em um ou mais firewalls e **Revogar chave pública SSH** para removê-la.
+O controlador gerencia a chave SSH por conta própria: um par de chaves é gerado automaticamente e a chave pública é instalada em cada firewall que você conecta, então não há nada para gerar nem enviar.
 
 Se o navegador bloquear a janela do terminal, permita pop-ups para o site do controlador.

@@ -1,16 +1,14 @@
 ---
-title: "Configurações da conta"
+title: "Alterar senha"
 sidebar_position: 2
-description: "Sua senha, idioma, 2FA e chave SSH."
+description: "Altere a sua senha pelo menu do usuário."
 ---
 
-# Configurações da conta
+# Alterar senha
 
-Abra **Configurações da conta** no menu para gerenciar a sua própria conta.
+Abra o **menu do usuário** (canto superior direito) e escolha **Alterar senha**.
 
-- **Alterar senha**: informe a senha atual e uma nova (pelo menos 8 caracteres, com letra maiúscula, letra minúscula, número e caractere especial).
-- **Idioma**: escolha o idioma da interface (inglês, português ou espanhol).
-- **Configurar 2FA**: ative a autenticação em dois fatores com um aplicativo autenticador. Recomendamos para todo administrador.
-- **Chave SSH**: gere um par de chaves SSH protegido por uma frase secreta de pelo menos 8 caracteres. A chave pública pode ser enviada aos seus firewalls pelo Gerenciador de firewalls, para usar o [terminal remoto](../firewalls/ssh-terminal.md) com a sua chave. **Remover chave SSH** também remove a chave pública dos firewalls conectados.
+1. Clique em **Enviar código**. Um código de 6 dígitos é enviado para o seu e-mail.
+2. Digite o código e escolha uma nova senha (pelo menos 8 caracteres com uma letra maiúscula, uma minúscula, um número e um caractere especial).
 
-<Shots items={[{"name": "account", "caption": "Configurações da conta: senha, idioma, 2FA e chave SSH."}]} />
+A mesma senha vale para o Portal de Parceiros e para o controlador. Se esqueceu a senha, use **Esqueci a senha** na página de login. O idioma da interface é escolhido no ícone de idioma da barra superior.
