@@ -17,4 +17,4 @@ What you can do:
 
 <Shots items={[{"name": "units", "caption": "The Firewall manager lists every firewall of your controller."}]} />
 
-Every customer has its own controller, separated from the others. If you are a reseller or distributor you normally reach it from the Nexwall Partner Portal with the **Open in controller** button, without typing another password.
+Every customer has its own controller, separated from the others. If you are a reseller or distributor you normally reach it from the Nexwall Partner Portal with the **Access controller** (on the customer's page) or **Open in controller** (in the Firewalls list) button, without typing another password.

@@ -10,7 +10,7 @@ description: "Entre, escolha o idioma e conheça a interface."
 2. Entre com o seu **e-mail e a sua senha** (os mesmos do Portal de Parceiros). Se a verificação em duas etapas está ativada para o seu usuário, digite o código do aplicativo autenticador. Se esqueceu a senha, clique em **Esqueci a senha**: um código é enviado ao seu e-mail e você escolhe uma nova.
 3. Você chega ao **Gerenciador de firewalls**.
 
-Pelo Portal de Parceiros você pula o login: o botão **Abrir no controlador** conecta você automaticamente por um curto período.
+Pelo Portal de Parceiros você pula o login: o botão **Acessar o controlador** (na página do cliente) ou **Abrir no controlador** (na lista de Firewalls) conecta você automaticamente por um curto período.
 
 <Shots items={[{"name": "login", "caption": "A página de login do controlador."}]} />
 

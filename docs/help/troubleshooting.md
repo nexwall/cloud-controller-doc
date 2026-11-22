@@ -16,6 +16,6 @@ description: "Fix the most common problems."
 
 **A report failed.** The firewall may be offline or busy; the controller retries automatically. Generate it again later, with fewer firewalls at a time.
 
-**I forgot my password.** Ask an administrator of the controller to reset it, or, if you reach the controller through the Partner Portal, use **Open in controller**.
+**I forgot my password.** Ask an administrator of the controller to reset it, or, if you reach the controller through the Partner Portal, use **Access controller** (on the customer's page) or **Open in controller** (in the Firewalls list).
 
 Still stuck? Contact Nexwall support from the Partner Portal.

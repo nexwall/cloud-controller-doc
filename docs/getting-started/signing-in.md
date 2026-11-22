@@ -10,7 +10,7 @@ description: "Sign in, choose your language and find your way around."
 2. Sign in with your **e-mail and password** (the same as in the Partner Portal). If two-step verification is enabled for your user, enter the code from your authenticator app. If you forgot the password, click **Forgot password**: a code is sent to your e-mail and you choose a new one.
 3. You land on the **Firewall manager**.
 
-From the Partner Portal you can skip the sign-in: the **Open in controller** button signs you in automatically for a short time.
+From the Partner Portal you can skip the sign-in: the **Access controller** (on the customer's page) or **Open in controller** (in the Firewalls list) button signs you in automatically for a short time.
 
 <Shots items={[{"name": "login", "caption": "The sign-in page of the controller."}]} />
 

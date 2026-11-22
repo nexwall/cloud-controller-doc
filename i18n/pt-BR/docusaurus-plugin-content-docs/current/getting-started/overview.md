@@ -17,4 +17,4 @@ O que você pode fazer:
 
 <Shots items={[{"name": "units", "caption": "O Gerenciador de firewalls lista todos os firewalls do seu controlador."}]} />
 
-Cada cliente tem o seu próprio controlador, separado dos demais. Se você é revendedor ou distribuidor, normalmente chega a ele pelo Portal de Parceiros Nexwall com o botão **Abrir no controlador**, sem digitar outra senha.
+Cada cliente tem o seu próprio controlador, separado dos demais. Se você é revendedor ou distribuidor, normalmente chega a ele pelo Portal de Parceiros Nexwall com o botão **Acessar o controlador** (na página do cliente) ou **Abrir no controlador** (na lista de Firewalls), sem digitar outra senha.

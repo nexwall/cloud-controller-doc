@@ -17,4 +17,4 @@ Qué puedes hacer:
 
 <Shots items={[{"name": "units", "caption": "El Gestor de firewalls muestra todos los firewalls de tu controlador."}]} />
 
-Cada cliente tiene su propio controlador, separado de los demás. Si eres revendedor o distribuidor, normalmente llegas a él desde el Portal de Socios de Nexwall con el botón **Abrir en el controlador**, sin escribir otra contraseña.
+Cada cliente tiene su propio controlador, separado de los demás. Si eres revendedor o distribuidor, normalmente llegas a él desde el Portal de Socios de Nexwall con el botón **Acceder al controlador** (en la página del cliente) o **Abrir en el controlador** (en la lista de Firewalls), sin escribir otra contraseña.

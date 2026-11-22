@@ -10,7 +10,7 @@ description: "Inicia sesión, elige el idioma y orientate en la interfaz."
 2. Inicia sesión con tu **correo y contraseña** (los mismos del Portal de Socios). Si la verificación en dos pasos está activada para tu usuario, introduce el código de tu aplicación de autenticación. Si olvidaste la contraseña, haz clic en **Olvidé mi contraseña**: se envía un código a tu correo y eliges una nueva.
 3. Llegas al **Gestor de firewalls**.
 
-Desde el Portal de Socios te ahorras el inicio de sesión: el botón **Abrir en el controlador** te conecta automáticamente durante un breve periodo.
+Desde el Portal de Socios te ahorras el inicio de sesión: el botón **Acceder al controlador** (en la página del cliente) o **Abrir en el controlador** (en la lista de Firewalls) te conecta automáticamente durante un breve periodo.
 
 <Shots items={[{"name": "login", "caption": "La página de inicio de sesión del controlador."}]} />
 

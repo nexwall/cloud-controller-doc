@@ -16,6 +16,6 @@ description: "Resuelve los problemas más comunes."
 
 **Un informe falló.** El firewall puede estar sin conexión u ocupado; el controlador reintenta automáticamente. Vuelve a generarlo más tarde, con menos firewalls a la vez.
 
-**Olvidé mi contraseña.** Pide a un administrador del controlador que la restablezca o, si llegas al controlador desde el Portal de Socios, usa **Abrir en el controlador**.
+**Olvidé mi contraseña.** Pide a un administrador del controlador que la restablezca o, si llegas al controlador desde el Portal de Socios, usa **Acceder al controlador** (en la página del cliente) o **Abrir en el controlador** (en la lista de Firewalls).
 
 ¿Sigues atascado? Contacta con el soporte de Nexwall desde el Portal de Socios.

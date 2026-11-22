@@ -16,6 +16,6 @@ description: "Resolva os problemas mais comuns."
 
 **Um relatório falhou.** O firewall pode estar offline ou ocupado; o controlador tenta novamente de forma automática. Gere-o de novo mais tarde, com menos firewalls por vez.
 
-**Esqueci a minha senha.** Peça a um administrador do controlador para redefini-la ou, se você chega ao controlador pelo Portal de Parceiros, use **Abrir no controlador**.
+**Esqueci a minha senha.** Peça a um administrador do controlador para redefini-la ou, se você chega ao controlador pelo Portal de Parceiros, use **Acessar o controlador** (na página do cliente) ou **Abrir no controlador** (na lista de Firewalls).
 
 Ainda com dúvidas? Fale com o suporte da Nexwall pelo Portal de Parceiros.
