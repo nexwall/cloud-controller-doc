@@ -18,3 +18,7 @@ Um firewall entra no controlador com um **código de adesão**.
 O firewall só precisa de acesso de saída à internet; nenhuma porta de entrada precisa ser aberta. Se o firewall não aparecer, veja [Solução de problemas](../help/troubleshooting.md).
 
 Use um código de adesão diferente para cada firewall e não o divulgue publicamente.
+
+## Licença
+
+Um firewall novo começa com um período de teste. Para licenciá-lo, compre um plano (NW-50, NW-250 ou NW-1000) na página **Licenças** do Portal de Parceiros. Quando o plano é aplicado, o controlador faz o firewall verificar com o servidor de licenças na hora, e a nova licença fica ativa sem esperar a próxima verificação agendada. Para isso o firewall precisa estar conectado ao controlador.

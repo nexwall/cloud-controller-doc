@@ -18,3 +18,7 @@ Un firewall se une al controlador con un **código de unión**.
 El firewall solo necesita acceso saliente a internet; no hay que abrir ningún puerto de entrada. Si el firewall no aparece, consulta [Solución de problemas](../help/troubleshooting.md).
 
 Usa un código de unión distinto para cada firewall y no lo difundas públicamente.
+
+## Licencia
+
+Un firewall nuevo comienza con un período de prueba. Para licenciarlo, compre un plan (NW-50, NW-250 o NW-1000) en la página **Licencias** del Portal de Socios. Cuando el plan se aplica, el controlador hace que el firewall verifique de inmediato con el servidor de licencias, y la nueva licencia queda activa sin esperar la siguiente verificación programada. Para ello el firewall debe estar conectado al controlador.
